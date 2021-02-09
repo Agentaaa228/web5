@@ -1,0 +1,45 @@
+#one{
+    color: red;    
+}
+#two{
+    color:blue;    
+}
+.list {
+    color:green;
+    font-size: 20px;
+}
+body{
+    background-image: url(1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img{
+    width:400px ;
+    border-radius: 10px;
+}
+table{
+    width: 800px;
+    background-color:aliceblue;
+    border-collapse: collapse;
+    margin: auto;
+}
+td{
+    border: 5px solid red;
+}
+.main{
+    width: 1000px;
+    height: 600px;
+    background-color: rgba(38, 135, 232, 0.47);
+    text-align: center;
+    margin: auto;
+    
+}
+a{
+    color: black;
+    font-size: 30px;
+}
+a:hover{
+    color:aqua;
+}
+h1:hover{
+    color:mediumvioletred;
